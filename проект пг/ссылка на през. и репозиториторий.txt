@@ -1,0 +1,9 @@
+
+перезентация:
+https://slides.com/kate097a/deck-005095/fullscreen
+
+репозиторий:
+https://github.com/kate097a/pygame_pr
+
+
+(надеюсь это то что нужно было сделать)
